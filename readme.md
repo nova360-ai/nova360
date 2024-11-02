@@ -3,7 +3,7 @@ Sure! Here’s the GitHub-ready `README.md` code for **nova360.ai**:
 ```markdown
 # nova360.ai
 
-![nova360.ai Logo](https://turknovatech.com/logo.png)  <!-- Replace with your logo URL -->
+![nova360.ai Logo](https://turknovatech.com/logo.png)  
 
 ## Transform Your Social Media Marketing with Automation
 
